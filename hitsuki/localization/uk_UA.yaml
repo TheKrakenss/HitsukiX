@@ -409,7 +409,7 @@ STRINGS:
     select_pm_lang: "\n<b>Виберіть нову мову:</b>"
     select_chat_lang: "\n<b>Виберіть нову мову чату:</b>"
     crowdin_btn: "🌎 Допоможіть нам з перекладом"
-    help_us_translate: "\n\n<a href=\"https://crowdin.com/project/hitsukix\">🌎 Допоможіть нам покращити переклад</a>"
+    help_us_translate: "\n\n<a href=\"https://crowdin.com/project/Hitsuki\">🌎 Допоможіть нам покращити переклад</a>"
     not_supported_lang: Ця мова не підтримується!
     lang_changed: Мова була змінена на <b>{lang_name}</b>.
     see_translators: '👥 Список перекладачів'
@@ -499,25 +499,25 @@ STRINGS:
   restrictions:
     user_not_in_chat: Користувач не в цьому чаті!
     #Kicks
-    kick_hitsuki: Замість того, щоб намагатися виштовхнути мене, Ви можете провести свій час краще.
+    kick_Ayn: Замість того, щоб намагатися виштовхнути мене, Ви можете провести свій час краще.
     kick_admin: Викинути адміна — це не краща ідея.
     kick_self: Якщо ви хочете вигнати себе - просто залиште цей чат. Я б не бажав дивитися на ці жалюгідні спроби самопокарання.
     user_kicked: "{user} був викинутий {admin} у {chat_name}."
     #Mutes
-    mute_hitsuki: Насправді, я буду радиа вас заткнути замість цього.
+    mute_Ayn: Насправді, я буду радиа вас заткнути замість цього.
     mute_admin: Якщо Ви думаєте, що можете заткнути адміністратора, то Ви сильно помиляєтеся!
     mute_self: Якщо Ви хочете заткнути себе - просто припиніть розмовляти! Краще помовчати і подумати, ніж відкривати ротяку.
     user_muted: "{user} був приглушений {admin} у {chat_name}."
-    unmute_hitsuki: На справді, мене не заткнути.
+    unmute_Ayn: На справді, мене не заткнути.
     unmute_admin: Ха-ха ні, спробуйте спершу заткнути його!
     unmute_self: Може я спочатку заткну тебе?
     user_unmuted: "{admin} зняв мут з {user} у {chat_name}."
     #Bans
-    ban_hitsuki: Ні, я не буду робити цього! Попросіть творця чату зробити це!
+    ban_Ayn: Ні, я не буду робити цього! Попросіть творця чату зробити це!
     ban_admin: Хаха, спочатку давайте зробимо йому <code>/demote</code>.
     ban_self: Навіщо Ви намагаєтеся заблокувати самого себе?
     user_banned: "{user} був заблокований {admin} в {chat_name}."
-    unban_hitsuki: Я, на справді, не заблокований.
+    unban_Ayn: Я, на справді, не заблокований.
     unban_admin: Хаха ні, спробуйте спочатку його заблокувати!
     unban_self: Може я спочатку заблокую тебе?
     user_unband: "{user} був розблокований {admin} в {chat_name}."
@@ -559,7 +559,7 @@ STRINGS:
   #success_remove_rules_note: "Successfully removed rules note in <b>{}</b>."
   greetings:
     default_welcome: "Ласкаво просимо, {mention}! Як справи?"
-    thank_for_add: "Thanks for adding me to your group! Take a look at /help and follow my news channel @HitsukiNews."
+    thank_for_add: "Thanks for adding me to your group! Take a look at /help and follow my news channel @AynNews."
     default_security_note: "Вітаємо вас в {mention}! Будь ласка, натисніть кнопку нижче, щоб підтвердити, що Ви людина!"
     bool_invalid_arg: Неприпустимий аргумент, очікується <code>on</code> (включити)/<code>off</code> (виключити).
     #/setwelcome
@@ -678,7 +678,7 @@ STRINGS:
     send_time: Please send time!
   android:
     cmd_example: "Please type your device <b>codename</b>!\nFor example, <code>/{cmd} whyred</code>"
-    err_github: "Hitsuki have been trying to connect to GitHub User Content, It seem like GitHub User Content is down"
+    err_github: "Ayn have been trying to connect to GitHub User Content, It seem like GitHub User Content is down"
     err_query: "Couldn't find any results matching your query."
     err_ota: "Tell the rom maintainer to fix their OTA json. I'm sure this won't work with OTA and it won't work with this bot too :P"
     err_twrp: "TWRP is not available for <code>{device}</code>"

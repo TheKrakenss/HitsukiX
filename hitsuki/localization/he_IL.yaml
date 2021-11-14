@@ -118,7 +118,7 @@ STRINGS:
     #/delwarns
     purged_warns: "{admin} איפס את <code>{num}</code> האזהרות של {user} ב <b>{chat_title}</b>!"
     usr_no_wrn: "למשתמש {user} אין אזהרות בשביל לאפס."
-    rst_wrn_sofi: 'Hitsuki never had warns to reset.'
+    rst_wrn_sofi: 'Ayn never had warns to reset.'
     not_digit: Warnlimits should be digits!
     #/warnmode
     same_mode: This is the current mode! How can I change it?
@@ -168,18 +168,18 @@ STRINGS:
     cant_promote_yourself: "אתה לא יכול להוסיף את עצמך כמנהל."
     emoji_not_allowed: "I'm sorry, but admin roles can't have emojis 😞"
   pm_menu:
-    start_hi_group: 'שלום! השם שלי הוא Hitsuki'
-    start_hi: "שלום! השם שלי הוא <b>Hitsuki.</b>\nאני יכול לעזור לך בניהול הקבוצה עם תכונות שימושיות!"
+    start_hi_group: 'שלום! השם שלי הוא Ayn'
+    start_hi: "שלום! השם שלי הוא <b>Ayn.</b>\nאני יכול לעזור לך בניהול הקבוצה עם תכונות שימושיות!"
     btn_source: "📦 קוד"
     btn_help: "❔ עזרה"
     btn_lang: "🇮🇱 שפה"
-    btn_channel: "📬 חדשות Hitsuki"
+    btn_channel: "📬 חדשות Ayn"
     btn_group_help: "לחץ כאן לעזרה!"
     back: חזור
     help_for: "Help for <b>{mod_name}</b> module:\n"
     help_for_a: "Help for {mod_name}."
     #/help
-    help_header: "היי! השם שלי הוא <b>Hitsuki</b>. ואני בוט לניהול קבוצות, אני יכול לעזו לך לשמור על הסדר בקבוצות שלך!\nיש לי הרבה תכונות שימושיות, כמו שליטה על הצפות, אזהרות, פתקים, ואפשרות ליצור טריגרים על מילים מסוימות."
+    help_header: "היי! השם שלי הוא <b>Ayn</b>. ואני בוט לניהול קבוצות, אני יכול לעזו לך לשמור על הסדר בקבוצות שלך!\nיש לי הרבה תכונות שימושיות, כמו שליטה על הצפות, אזהרות, פתקים, ואפשרות ליצור טריגרים על מילים מסוימות."
     click_btn: לחץ כאן
   disable:
     #/disableable
@@ -407,7 +407,7 @@ STRINGS:
     select_pm_lang: "\n<b>בחר את השפה החדשה:</b>"
     select_chat_lang: "\n<b>בחר את השפה החדשה של הצ'אט:</b>"
     crowdin_btn: "🌎 עזרו לנו עם התרגום"
-    help_us_translate: "\n\n<a href=\"https://crowdin.com/project/hitsukix\">🌎 עזור לנו בשיפור התרגום</a>"
+    help_us_translate: "\n\n<a href=\"https://crowdin.com/project/Hitsuki\">🌎 עזור לנו בשיפור התרגום</a>"
     not_supported_lang: השפה לא נתמכת!
     lang_changed: השפה שונתה ל <b>{lang_name}</b>.
     see_translators: '👥 ראה את המתרגמים'
@@ -491,31 +491,31 @@ STRINGS:
     big_file: רק קבצים מתחת ל 50 MB נתמכים!
     started_importing: הייבוא התחיל! אנא המתן...
     bad_file: Bad file! Expected <code>'general'</code> column.
-    file_version_so_new: Exported file version is newer than what Hitsuki currently supports!
+    file_version_so_new: Exported file version is newer than what Ayn currently supports!
     imports_locked: Please wait %s before using imports again!
     import_done: הייבוא הושלם!
   restrictions:
     user_not_in_chat: User is not in this chat!
     #Kicks
-    kick_hitsuki: Instead of trying kick me you could spend your time better. Thats just boring.
+    kick_Ayn: Instead of trying kick me you could spend your time better. Thats just boring.
     kick_admin: Kicking admin is not best idea thought.
     kick_self: If you want to kick yourself - just leave this chat. I would rather not see you than look at these pathetic attempts at self-punishment.
     user_kicked: "{user} was kicked by {admin} in {chat_name}."
     #Mutes
-    mute_hitsuki: Actually, I'll be happy to shut up you instead.
+    mute_Ayn: Actually, I'll be happy to shut up you instead.
     mute_admin: If you think you can shut up an admin, you are wrong!
     mute_self: If you want to mute yourself - just stop talking! Better to thought a fool than open your mouth and remove all doubt.
     user_muted: "{user} was muted by {admin} in {chat_name}."
-    unmute_hitsuki: אני לא מושתק.
+    unmute_Ayn: אני לא מושתק.
     unmute_admin: Haha no, try muting him first!
     unmute_self: אני צריך להשתיק אותך קודם?
     user_unmuted: "{user} was unmuted by {admin} in {chat_name}."
     #Bans
-    ban_hitsuki: No, I won't do it! Ask the chat creator to do it!
+    ban_Ayn: No, I won't do it! Ask the chat creator to do it!
     ban_admin: Haha, let's <code>/demote</code> him first.
     ban_self: Why are you trying to ban yourself?
     user_banned: "{user} נחסם על ידי {admin} ב {chat_name}."
-    unban_hitsuki: Actually, I'm not banned.
+    unban_Ayn: Actually, I'm not banned.
     unban_admin: Haha no, try banning him first!
     unban_self: אני צריך לחסום אותך קודם?
     user_unband: "{user} was unbanned by {admin} in {chat_name}."
@@ -557,7 +557,7 @@ STRINGS:
   #success_remove_rules_note: "Successfully removed rules note in <b>{}</b>."
   greetings:
     default_welcome: "ברוך הבא {mention}! מה שלומך?"
-    thank_for_add: "Thanks for adding me to your group! Take a look at /help and follow my news channel @HitsukiNews."
+    thank_for_add: "Thanks for adding me to your group! Take a look at /help and follow my news channel @AynNews."
     default_security_note: "Welcome {mention}! Please press button below to verify yourself as human!"
     bool_invalid_arg: Invalid argument, expected <code>on</code>/<code>off</code>.
     #/setwelcome
@@ -676,7 +676,7 @@ STRINGS:
     send_time: Please send time!
   android:
     cmd_example: "Please type your device <b>codename</b>!\nFor example, <code>/{cmd} whyred</code>"
-    err_github: "Hitsuki have been trying to connect to GitHub User Content, It seem like GitHub User Content is down"
+    err_github: "Ayn have been trying to connect to GitHub User Content, It seem like GitHub User Content is down"
     err_query: "Couldn't find any results matching your query."
     err_ota: "Tell the rom maintainer to fix their OTA json. I'm sure this won't work with OTA and it won't work with this bot too :P"
     err_twrp: "TWRP is not available for <code>{device}</code>"

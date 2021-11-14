@@ -118,7 +118,7 @@ STRINGS:
     #/delwarns
     purged_warns: "{admin} restableció <code>{num}</code> advertencias a {user} en <b>{chat_title}</b>!"
     usr_no_wrn: "{user} aún no tiene ninguna advertencia."
-    rst_wrn_sofi: 'Hitsuki nunca ha tenido advertencias para reiniciar.'
+    rst_wrn_sofi: 'Ayn nunca ha tenido advertencias para reiniciar.'
     not_digit: '¡El límite de advertencias deben ser dígitos!'
     #/warnmode
     same_mode: '¡Este es el modo actual! ¿Cómo puedo cambiarlo?'
@@ -170,17 +170,17 @@ STRINGS:
     emoji_not_allowed: "Lo siento, pero los roles de administrador no pueden contener emojis 😞"
   pm_menu:
     start_hi_group: '¡Hola! Mi nombre es Sophie'
-    start_hi: "¡Hola! ¡Mi nombre es <b>Hitsuki</b>, te ayudo a gestionar tu grupo de una manera eficiente!"
+    start_hi: "¡Hola! ¡Mi nombre es <b>Ayn</b>, te ayudo a gestionar tu grupo de una manera eficiente!"
     btn_source: "📦 Código fuente"
     btn_help: "❔ Ayuda"
     btn_lang: "es Idioma"
-    btn_channel: "📡 Noticias de Hitsuki"
+    btn_channel: "📡 Noticias de Ayn"
     btn_group_help: "Click me for help!"
     back: Atrás
     help_for: "Help for <b>{mod_name}</b> module:\n"
     help_for_a: "Help for {mod_name}."
     #/help
-    help_header: "¡Oye! Mi nombre es <b>Hitsuki</b>. Soy un robot de gestión de grupos, ¡estoy aquí para ayudarte a moverte y mantener el orden en tus grupos!\nTengo muchas funciones útiles, como control de flood, un sistema de advertencia, un sistema de notas e incluso respuestas predeterminadas a ciertas palabras clave."
+    help_header: "¡Oye! Mi nombre es <b>Ayn</b>. Soy un robot de gestión de grupos, ¡estoy aquí para ayudarte a moverte y mantener el orden en tus grupos!\nTengo muchas funciones útiles, como control de flood, un sistema de advertencia, un sistema de notas e incluso respuestas predeterminadas a ciertas palabras clave."
     click_btn: Haz clic aquí
   disable:
     #/disableable
@@ -408,7 +408,7 @@ STRINGS:
     select_pm_lang: "\n<b>Selecciona tu nuevo idioma:</b>"
     select_chat_lang: "\n<b>Seleccionar nuevo idioma del chat:</b>"
     crowdin_btn: "🌎 Ayúdanos con la traducción"
-    help_us_translate: "\n\n<a href=\"https://crowdin.com/project/hitsukix\">🌎 Ayúdanos a mejorar nuestras traducciones</a>"
+    help_us_translate: "\n\n<a href=\"https://crowdin.com/project/Hitsuki\">🌎 Ayúdanos a mejorar nuestras traducciones</a>"
     not_supported_lang: '¡Este idioma no está soportado!'
     lang_changed: Idioma cambiado a <b>{lang_name}</b>.
     see_translators: '👥 Ver traductores'
@@ -492,31 +492,31 @@ STRINGS:
     big_file: '¡Sólo se admiten archivos menores de 50 MB!'
     started_importing: '¡Importación iniciada! Por favor espere...'
     bad_file: '¡Archivo erróneo! Se esperaba <code>columna ''general''</code>.'
-    file_version_so_new: '¡La versión del archivo exportado es más reciente de lo que Hitsuki admite actualmente!'
+    file_version_so_new: '¡La versión del archivo exportado es más reciente de lo que Ayn admite actualmente!'
     imports_locked: '¡Por favor, espere %s antes de usar la importación nuevamente!'
     import_done: '¡Importación hecha!'
   restrictions:
     user_not_in_chat: '¡El usuario no está en este chat!'
     #Kicks
-    kick_hitsuki: En lugar de intentar eliminarme, podrías pasar mejor tu tiempo. Eso es simplemente aburrido.
+    kick_Ayn: En lugar de intentar eliminarme, podrías pasar mejor tu tiempo. Eso es simplemente aburrido.
     kick_admin: Expulsar a los administradores no es la mejor idea.
     kick_self: Si quieres expulsarte a ti mismo - solo abandona este chat. Prefiero no verlo que mirar estos patéticos intentos de auto-castigo.
     user_kicked: "{user} fue expulsado por {admin} en {chat_name}."
     #Mutes
-    mute_hitsuki: En realidad, estaré encantado de callarte en su lugar.
+    mute_Ayn: En realidad, estaré encantado de callarte en su lugar.
     mute_admin: '¡Si crees que puedes silenciar a un administrador, te equivocas!'
     mute_self: '¡Si quieres silenciarte a ti mismo - solo deja de hablar! Es mejor pensar como un idiota que abrir la boca y eliminar todas las dudas.'
     user_muted: "{user} fue silenciado por {admin} en {chat_name}."
-    unmute_hitsuki: De hecho, no estoy silenciado.
+    unmute_Ayn: De hecho, no estoy silenciado.
     unmute_admin: Haha no, ¡intenta silenciarlo primero!
     unmute_self: '¿Debería silenciarte por primera vez?'
     user_unmuted: "{user} fue desmuteado por {admin} en {chat_name}."
     #Bans
-    ban_hitsuki: '¡No, no voy a hacer eso! ¡Pídele al creador del chat que lo haga!'
+    ban_Ayn: '¡No, no voy a hacer eso! ¡Pídele al creador del chat que lo haga!'
     ban_admin: Jajaja, vamos a ejecutar <code>/demote</code> a él primero.
     ban_self: '¿Por qué intentas banearte a ti mismo?'
     user_banned: "{user} fue baneado por {admin} en {chat_name}."
-    unban_hitsuki: De hecho, no estoy prohibido.
+    unban_Ayn: De hecho, no estoy prohibido.
     unban_admin: Haha no, ¡intenta banearlo primero!
     unban_self: '¿Debería banearte por primera vez?'
     user_unband: "{user} fue desbaneado por {admin} en {chat_name}."
@@ -558,7 +558,7 @@ STRINGS:
   #success_remove_rules_note: "Successfully removed rules note in <b>{}</b>."
   greetings:
     default_welcome: "¡Bienvenido/a {mention}! ¿Cómo estás?"
-    thank_for_add: "Thanks for adding me to your group! Take a look at /help and follow my news channel @HitsukiNews."
+    thank_for_add: "Thanks for adding me to your group! Take a look at /help and follow my news channel @AynNews."
     default_security_note: "¡Bienvenido/a {mention}! ¡Por favor, haz clic en el botón de abajo para verificar que eres un ser humano!"
     bool_invalid_arg: Argumento inválido, se esperaba <code>on</code>/<code>off</code>.
     #/setwelcome
@@ -677,7 +677,7 @@ STRINGS:
     send_time: Please send time!
   android:
     cmd_example: "Please type your device <b>codename</b>!\nFor example, <code>/{cmd} whyred</code>"
-    err_github: "Hitsuki have been trying to connect to GitHub User Content, It seem like GitHub User Content is down"
+    err_github: "Ayn have been trying to connect to GitHub User Content, It seem like GitHub User Content is down"
     err_query: "No se ha podido encontrar ningún resultado que coincida con su consulta."
     err_ota: "Dile al mantenedor de rom que arregle su OTA json. Estoy seguro de que esto no funcionará con OTA y no funcionará con este bot también :P"
     err_twrp: "El TWRP no está disponible para <code>{device}</code>"
