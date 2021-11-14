@@ -9,7 +9,7 @@
 
 To anyone coming here to **clone this bot**, no support will be given for it. If you PM me on Telegram will be ignored.
 
-You can find the Hitsuki X as [@AynRoBot](https://t.me/AynRoBot) on Telegram.
+You can find the Ayn as [@AynRoBot](https://t.me/AynRoBot) on Telegram.
 
 ## Ayn features over other bots
 
@@ -19,11 +19,11 @@ You can find the Hitsuki X as [@AynRoBot](https://t.me/AynRoBot) on Telegram.
 * Fully asynchronous.
 * Fully open-source.
 * Frequently updated.
-* Ayn respects your data privacy, we constantly improving privacy and security in Hitsuki.
+* Ayn respects your data privacy, we constantly improving privacy and security in Ayn.
 
 ## Thanks to
 
-* [Hitsuki X](https://github.com/HitsukiNetwork/HitsukiX) - Hitsuki as base master repository
+* [Hitsuki X](https://github.com/HitsukiNetwork/HitsukiX) - Hitsuki as base master this repository
 * [MrYacha](https://github.com/MrYacha) - Hitsuki X is based on [Sophie Bot](https://gitlab.com/SophieBot/sophie).
 * [RealAkito](https://github.com/RealAkito) - Most Android related commands are ported from [Haruka Aya bot](https://gitlab.com/HarukaNetwork/OSS/HarukaAya).
 * [DragSama](https://github.com/DragSama) & [TsunayoshiSawada](https://github.com/TsunayoshiSawada) - Help menu system is cherry picked from [AllMightRobot](https://github.com/AnimeKaizoku/AllMightRobot).
