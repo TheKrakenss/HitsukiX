@@ -441,7 +441,7 @@ __filters__ = {
 __mod_name__ = "Restrictions"
 
 __help__ = """
-General admin's rights is restrict users and control their rules with this module you can easely do it.
+General admin's rights is restrict users and control their rules with this module you can easily do it.
 
 <b>Available commands:</b>
 <b>Kicks:</b>
@@ -451,15 +451,15 @@ General admin's rights is restrict users and control their rules with this modul
 <b>Mutes:</b>
 - /mute: Mutes a user
 - /smute: Silently mutes
-- /tmute (time): Temprotary mute a user
-- /stmute (time): Silently temprotary mute a user
+- /tmute (time): Temporary mute a user
+- /stmute (time): Silently temporary mute a user
 - /unmute: Unmutes the user
 
 <b>Bans:</b>
 - /ban: Bans a user
 - /sban: Silently bans
-- /tban (time): Temprotary ban a user
--/stban (time): Silently temprotary ban a user
+- /tban (time): Temporary ban a user
+-/stban (time): Silently temporary ban a user
 - /unban: Unbans the user
 
 <b>Examples:</b>
