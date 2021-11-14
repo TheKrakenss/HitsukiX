@@ -9,7 +9,7 @@
 
 To anyone coming here to **clone this bot**, no support will be given for it. If you PM me on Telegram will be ignored.
 
-You can find the Hitsuki X as [@Hitsuki_BOT](https://t.me/Hitsuki_BOT) on Telegram.
+You can find the Hitsuki X as [@AynRoBot](https://t.me/AynRoBot) on Telegram.
 
 ## Ayn features over other bots
 
@@ -19,7 +19,7 @@ You can find the Hitsuki X as [@Hitsuki_BOT](https://t.me/Hitsuki_BOT) on Telegr
 * Fully asynchronous.
 * Fully open-source.
 * Frequently updated.
-* Hitsuki respects your data privacy, we constantly improving privacy and security in Hitsuki.
+* Ayn respects your data privacy, we constantly improving privacy and security in Hitsuki.
 
 ## Thanks to
 
