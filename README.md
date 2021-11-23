@@ -23,7 +23,7 @@ You can find the Ayn as [@AynRoBot](https://t.me/AynRoBot) on Telegram.
 
 ## Thanks to
 
-* [Hitsuki X](https://github.com/HitsukiNetwork/HitsukiX) - Hitsuki as base master this repository
+* [Hitalo](https://github.com/HitaloSama) - Ayn is based on [Hitsuki X](https://github.com/HitsukiNetwork/HitsukiX)
 * [MrYacha](https://github.com/MrYacha) - Hitsuki X is based on [Sophie Bot](https://gitlab.com/SophieBot/sophie).
 * [RealAkito](https://github.com/RealAkito) - Most Android related commands are ported from [Haruka Aya bot](https://gitlab.com/HarukaNetwork/OSS/HarukaAya).
 * [DragSama](https://github.com/DragSama) & [TsunayoshiSawada](https://github.com/TsunayoshiSawada) - Help menu system is cherry picked from [AllMightRobot](https://github.com/AnimeKaizoku/AllMightRobot).
