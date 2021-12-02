@@ -3,7 +3,7 @@ telethon~=1.17.0
 aiogram>=2.15
 
 # DBs
-redis
+redis==3.5.3
 aioredis>=2.0.0 # Redis memory storage for aiogram
 pymongo
 motor
