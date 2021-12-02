@@ -5,8 +5,8 @@ aiogram>=2.15
 # DBs
 redis==3.5.3
 aioredis>=2.0.0 # Redis memory storage for aiogram
-pymongo
-motor
+pymongo==3.12.2
+motor==2.4.0
 dnspython # Needed to connect to cloud MongoDB instances
 
 # Optional deps to make bot faster
